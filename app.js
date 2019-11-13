@@ -31,5 +31,5 @@ saveBtn.onclick = function() {
 
   setTimeout(function() {
     notify.classList.remove('active')
-  }, 40000)
+  }, 4000)
 }
